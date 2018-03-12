@@ -11,6 +11,7 @@ int main()
 	cout << "2 11:02:1997";
 	cout << "óöïà";
 	cout << "êåê";
+	cout << "3 Ï³ùàíêà";
     return 0;
 }
 
