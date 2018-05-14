@@ -24,6 +24,7 @@ int main()
 	cout << "4";
 	cout << "22";
 	cout << "33";
+	cout << "72";
     return 0;
 }
 
