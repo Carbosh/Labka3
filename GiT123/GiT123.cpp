@@ -46,6 +46,9 @@ int main()
 	cout << "2";
 	cout << "2";
 	cout << "2";
+	cout << "Ноги";
+	cout << "машина";
+	cout << "тазік";
     return 0;
 }
 
